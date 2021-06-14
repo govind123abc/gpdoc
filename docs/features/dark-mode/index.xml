@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dark Mode on Geekdocs</title>
-    <link>http://govind123abc.gitlaunch.com/hugo-site/features/dark-mode/</link>
+    <link>https://geeklaunch.github.com/example-hugo-site/features/dark-mode/</link>
     <description>Recent content in Dark Mode on Geekdocs</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://govind123abc.gitlaunch.com/hugo-site/features/dark-mode/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://geeklaunch.github.com/example-hugo-site/features/dark-mode/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
