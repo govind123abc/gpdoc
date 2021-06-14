@@ -1,6 +1,7 @@
 ---
 baseURL: https://geekdocs.de/
 title: Geekdocs
+publishDir: docs
 theme: hugo-geekdoc
 pygmentsUseClasses: true
 pygmentsCodeFences: true
