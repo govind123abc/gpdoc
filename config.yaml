@@ -1,5 +1,5 @@
 ---
-baseURL: http://govind123abc.gitlaunch.com/hugo-site
+baseURL: https://geeklaunch.github.com/example-hugo-site/
 title: Geekdocs
 publishDir: docs
 theme: hugo-geekdoc
