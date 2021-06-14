@@ -1,5 +1,5 @@
 ---
-baseURL: https://unixgeek.co/docs/
+baseURL: http://govind123abc.gitlaunch.com/hugo-site
 title: Geekdocs
 publishDir: docs
 theme: hugo-geekdoc
